@@ -1,5 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I’m Simone — a Developer Driven by Curiosity and Clean Architecture 🚀
 
+I’m a full-stack software developer with a strong focus on designing scalable systems, clean architectures, and intuitive user experiences.
+
+### 🌱 Always leveling up
+
+I’m constantly learning — experimenting with new frameworks, refining patterns, and exploring best practices from both academia and industry.
 <!--
 **SimoX26/SimoX26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

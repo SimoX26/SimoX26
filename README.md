@@ -10,4 +10,4 @@
 ### 🤝 Let’s connect
 Feel free to explore my repositories, check out what I’m building, or reach out if you want to collaborate.
 
-Welcome to my GitHub! ✨
+Welcome to my GitHub! 🚀

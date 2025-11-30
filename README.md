@@ -4,7 +4,7 @@
 
 
 ### 🌱 Always leveling up
- I’m constantly learning — experimenting with new frameworks, refining patterns, and exploring best practices from both academia and industry.
+ I’m constantly learning — experimenting with new frameworks, refining patterns, and exploring best practices from university and real world.
 
 
 ### 🤝 Let’s connect

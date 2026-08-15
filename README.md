@@ -2,7 +2,7 @@
 
 <!-- Sostituisci il link qui sotto con una tua pixel art/banner -->
 
-<img src="YOUR_PIXEL_ART_BANNER_URL" alt="Pixel art banner" width="100%" />
+<img src="https://github.com/SimoX26/SimoX26/blob/main/Profile%20image.png" alt="Pixel art banner" width="100%" />
 
 # 👾 Hi, I'm Simone
 

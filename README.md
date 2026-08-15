@@ -18,50 +18,24 @@ to polished interfaces and deployment.
 </div>
 
 ---
+⚡ What I work with
 
-## 🕹️ About me
+C C++ Java JavaScript React Node.js SQL
 
-* full-stack developer
-* focused on clean and maintainable code
-* passionate about system design and user experience
-* always learning and improving
+Linux Git Nginx
 
----
+🧠 Beyond Web Development
 
-## ⚒️ Tech Stack
+I have a strong understanding of computer architecture and low-level programming.
 
-**Backend**
-`Java` `Node.js` `Express`
+I work with concepts such as:
 
-**Frontend**
-`JavaScript` `React` `HTML` `CSS` `Bootstrap`
+Memory · Pointers · Processes · Data Representation · CPU Architecture · System Programming
 
-**Database**
-`MySQL` `MariaDB`
-
-**Tools**
-`Git` `GitHub` `Linux` `Nginx`
-
----
-
-## 🌱 Currently
-
-* refining my development workflow
-* improving architecture and best practices
-* building better, cleaner software every day
-
----
-
-## 🤝 Connect
-
-Feel free to explore my repositories and follow my journey.
+I've also built projects in C and C++, working closer to the hardware and understanding what happens beneath higher-level abstractions.
 
 <div align="center">
 
-### `build()`
-
-### `learn()`
-
-### `improve()`
+code. understand. build.
 
 </div>

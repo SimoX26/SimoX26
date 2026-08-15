@@ -9,11 +9,11 @@
 
 `clean architecture` · `scalable systems` · `intuitive UI`
 
--->
-
 I enjoy building complete applications,
 from backend logic and databases
 to polished interfaces and deployment.
+
+-->
 
 </div>
 

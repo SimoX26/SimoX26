@@ -18,24 +18,29 @@ to polished interfaces and deployment.
 </div>
 
 ---
-⚡ What I work with
 
-C C++ Java JavaScript React Node.js SQL
+### ⚡ What I work with
 
-Linux Git Nginx
+`C` `C++` `Java` `JavaScript` `React` `Node.js` `SQL`
 
-🧠 Beyond Web Development
+`Linux` `Git` `Nginx`
 
-I have a strong understanding of computer architecture and low-level programming.
+---
+
+### 🧠 Beyond Web Development
+
+I have a strong understanding of **computer architecture and low-level programming**.
 
 I work with concepts such as:
 
-Memory · Pointers · Processes · Data Representation · CPU Architecture · System Programming
+`Memory` · `Pointers` · `Processes` · `Data Representation` · `CPU Architecture` · `System Programming`
 
-I've also built projects in C and C++, working closer to the hardware and understanding what happens beneath higher-level abstractions.
+I've also built projects in **C and C++**, working closer to the hardware and understanding what happens beneath higher-level abstractions.
+
+---
 
 <div align="center">
 
-code. understand. build.
+### `code. understand. build.`
 
 </div>

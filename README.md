@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Sostituisci il link qui sotto con una tua pixel art/banner -->
-
 <img src="https://github.com/SimoX26/SimoX26/blob/main/Profile%20image.png" alt="Pixel art banner" width="100%" />
 
 # 👾 Hi, I'm Simone

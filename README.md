@@ -1,14 +1,66 @@
-# 👋 Hi, I’m Simone
+<div align="center">
 
- I’m a full-stack software developer with a strong focus on designing scalable systems, clean architectures, and intuitive user experiences.
+<!-- Sostituisci il link qui sotto con una tua pixel art/banner -->
 
+<img src="YOUR_PIXEL_ART_BANNER_URL" alt="Pixel art banner" width="100%" />
 
-### Always leveling up 🌱 
- I’m constantly learning, experimenting with new frameworks, refining patterns, and exploring best practices from university and real world.
+# 👾 Hi, I'm Simone
 
+### Full-Stack Developer
 
-### Let’s connect 🤝 
-Feel free to explore my repositories, check out what I’m building, or reach out if you want to collaborate.
+`clean architecture` · `scalable systems` · `intuitive UI`
 
+I enjoy building complete applications,
+from backend logic and databases
+to polished interfaces and deployment.
 
-## Welcome to my GitHub! 🚀
+</div>
+
+---
+
+## 🕹️ About me
+
+* full-stack developer
+* focused on clean and maintainable code
+* passionate about system design and user experience
+* always learning and improving
+
+---
+
+## ⚒️ Tech Stack
+
+**Backend**
+`Java` `Node.js` `Express`
+
+**Frontend**
+`JavaScript` `React` `HTML` `CSS` `Bootstrap`
+
+**Database**
+`MySQL` `MariaDB`
+
+**Tools**
+`Git` `GitHub` `Linux` `Nginx`
+
+---
+
+## 🌱 Currently
+
+* refining my development workflow
+* improving architecture and best practices
+* building better, cleaner software every day
+
+---
+
+## 🤝 Connect
+
+Feel free to explore my repositories and follow my journey.
+
+<div align="center">
+
+### `build()`
+
+### `learn()`
+
+### `improve()`
+
+</div>

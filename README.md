@@ -2,11 +2,14 @@
 
 <img src="https://github.com/SimoX26/SimoX26/blob/main/Profile%20image.png" alt="Pixel art banner" width="100%" />
 
+<!-- 
 # 👾 Hi, I'm Simone
 
 ### Full-Stack Developer
 
 `clean architecture` · `scalable systems` · `intuitive UI`
+
+-->
 
 I enjoy building complete applications,
 from backend logic and databases
